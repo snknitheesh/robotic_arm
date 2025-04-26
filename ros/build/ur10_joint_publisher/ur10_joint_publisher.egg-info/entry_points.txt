@@ -1,0 +1,3 @@
+[console_scripts]
+joint_publisher = ur10_joint_publisher.joint_publisher:main
+
